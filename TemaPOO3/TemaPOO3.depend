@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1578508314 source:c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\main.cpp
+	<iostream>
+	"Detinator.h"
+	"Cont_bancar.h"
+	"Cont_de_economii.h"
+	"Cont_curent.h"
+	"GestionareConturi.h"
+
+1578500950 c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\detinator.h
+	<iostream>
+	<tuple>
+	<string>
+	<cctype>
+
+1578508374 c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\cont_bancar.h
+	"Detinator.h"
+	<iostream>
+	<tuple>
+
+1578506987 c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\cont_de_economii.h
+	"Cont_bancar.h"
+	<iostream>
+	<string>
+	<vector>
+	<tuple>
+	<ctime>
+
+1578502507 c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\cont_curent.h
+	"Cont_bancar.h"
+	<iostream>
+
+1578501437 source:c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\detinator.cpp
+	"Detinator.h"
+	<iostream>
+
+1578508350 source:c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\cont_bancar.cpp
+	"Cont_bancar.h"
+	"Cont_de_economii.h"
+	"Cont_curent.h"
+	<iostream>
+
+1578502447 source:c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\cont_de_economii.cpp
+	"Cont_de_economii.h"
+	<iostream>
+
+1578502611 source:c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\cont_curent.cpp
+	"Cont_curent.h"
+
+1578507053 c:\users\andrei cosor\desktop\teme poo\tema3\temapoo3\gestionareconturi.h
+	<iostream>
+	<vector>
+	<unordered_map>
+	"Cont_de_economii.h"
+
